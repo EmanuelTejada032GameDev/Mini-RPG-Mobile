@@ -139,7 +139,13 @@ TextureImporter:
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -7, y: 6}
+        - {x: -8, y: 3}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
       spriteID: f055b617ff7453644968ff49586aa66f
@@ -559,7 +565,13 @@ TextureImporter:
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -4, y: 5}
+        - {x: -7, y: 5}
+        - {x: -7, y: -1}
+        - {x: 8, y: -1}
+        - {x: 8, y: 5}
+        - {x: 3, y: 5}
       tessellationDetail: 0
       bones: []
       spriteID: ad7328c8e09e52b408223289cdfcb933
@@ -853,7 +865,11 @@ TextureImporter:
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -1, y: -8}
+        - {x: -1, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: -8}
       tessellationDetail: 0
       bones: []
       spriteID: 78cb9bde2a21e0c4e869f6a62b2017b5
@@ -874,7 +890,11 @@ TextureImporter:
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 0, y: 8}
+        - {x: 0, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
       spriteID: 7ba3bb391ee43f44ab210008556592f6
@@ -1840,7 +1860,13 @@ TextureImporter:
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -4, y: -2}
+        - {x: -7, y: -2}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: -2}
+        - {x: 3, y: -2}
       tessellationDetail: 0
       bones: []
       spriteID: 0b69c05953ccc8b4daf28d03bef42838
@@ -14862,8 +14888,8 @@ TextureImporter:
       walkable-atlas_237: -8635163
       walkable-atlas_138: -514253645
       walkable-atlas_121: 2073358629
-      walkable-atlas_140: 561878195
       walkable-atlas_379: -1122207752
+      walkable-atlas_140: 561878195
       walkable-atlas_129: 2024583932
       walkable-atlas_13: -1819271672
       walkable-atlas_3: 1277540741
@@ -14950,8 +14976,8 @@ TextureImporter:
       walkable-atlas_533: 322883297
       walkable-atlas_470: -1894454110
       walkable-atlas_180: 327755448
-      walkable-atlas_423: 698088312
       walkable-atlas_559: -294538011
+      walkable-atlas_423: 698088312
       walkable-atlas_245: -1500750913
       walkable-atlas_683: -49236475
       walkable-atlas_91: 1727745328
@@ -14989,8 +15015,8 @@ TextureImporter:
       walkable-atlas_460: 712915047
       walkable-atlas_230: -2117854240
       walkable-atlas_366: 329017952
-      walkable-atlas_243: 127114772
       walkable-atlas_522: -267751330
+      walkable-atlas_243: 127114772
       walkable-atlas_11: 1709147593
       walkable-atlas_695: -454774678
       walkable-atlas_428: -1685058230
@@ -15020,8 +15046,8 @@ TextureImporter:
       walkable-atlas_367: 1974368509
       walkable-atlas_531: -1342681983
       walkable-atlas_229: -1231527192
-      walkable-atlas_161: 522030953
       walkable-atlas_316: -2099627663
+      walkable-atlas_161: 522030953
       walkable-atlas_101: -2097087217
       walkable-atlas_583: -1487871216
       walkable-atlas_305: -1115854263
@@ -15134,8 +15160,8 @@ TextureImporter:
       walkable-atlas_453: -463565549
       walkable-atlas_545: 1489233119
       walkable-atlas_88: 492917286
-      walkable-atlas_503: 454571878
       walkable-atlas_588: -778008643
+      walkable-atlas_503: 454571878
       walkable-atlas_646: -1714528982
       walkable-atlas_631: -660613605
       walkable-atlas_671: -1558430645
@@ -15153,8 +15179,8 @@ TextureImporter:
       walkable-atlas_344: 1242551577
       walkable-atlas_143: -227852340
       walkable-atlas_491: 682745056
-      walkable-atlas_682: 2134783744
       walkable-atlas_684: 1137974392
+      walkable-atlas_682: 2134783744
       walkable-atlas_600: -1380004983
       walkable-atlas_246: -2003228853
       walkable-atlas_561: 269604449
@@ -15190,10 +15216,10 @@ TextureImporter:
       walkable-atlas_624: 1054996127
       walkable-atlas_385: 227527331
       walkable-atlas_520: -644058810
-      walkable-atlas_362: -1409097312
-      walkable-atlas_462: 1260683027
       walkable-atlas_208: -2111215442
       walkable-atlas_128: 941842317
+      walkable-atlas_362: -1409097312
+      walkable-atlas_462: 1260683027
       walkable-atlas_178: 1923579419
       walkable-atlas_255: -351868590
       walkable-atlas_160: -978471323
@@ -15248,10 +15274,10 @@ TextureImporter:
       walkable-atlas_295: 851709167
       walkable-atlas_321: 799664553
       walkable-atlas_172: 422513779
-      walkable-atlas_391: -1537874105
+      walkable-atlas_686: -955150533
       walkable-atlas_361: -720736283
       walkable-atlas_83: -1947944931
-      walkable-atlas_686: -955150533
+      walkable-atlas_391: -1537874105
       walkable-atlas_372: -1911578812
       walkable-atlas_441: 1598536223
       walkable-atlas_620: -1439485922
@@ -15273,9 +15299,9 @@ TextureImporter:
       walkable-atlas_421: 1218746745
       walkable-atlas_440: 107942961
       walkable-atlas_2: 1252426761
-      walkable-atlas_24: 169776141
-      walkable-atlas_82: 861945925
       walkable-atlas_97: -1709154420
+      walkable-atlas_82: 861945925
+      walkable-atlas_24: 169776141
       walkable-atlas_699: 876745752
       walkable-atlas_0: -894532675
       walkable-atlas_569: -670861226
@@ -15291,8 +15317,8 @@ TextureImporter:
       walkable-atlas_77: -814707315
       walkable-atlas_601: 1291450780
       walkable-atlas_52: 387737612
-      walkable-atlas_194: -1255296195
       walkable-atlas_596: 1805132115
+      walkable-atlas_194: -1255296195
       walkable-atlas_612: 1787334014
       walkable-atlas_130: -494092397
       walkable-atlas_341: -906970480
@@ -15315,9 +15341,9 @@ TextureImporter:
       walkable-atlas_262: 975936305
       walkable-atlas_332: -731541976
       walkable-atlas_214: 781026790
-      walkable-atlas_505: 74160913
       walkable-atlas_619: 2059244500
       walkable-atlas_20: 330234144
+      walkable-atlas_505: 74160913
       walkable-atlas_407: -887995463
       walkable-atlas_657: 1506859318
       walkable-atlas_442: 1407241272
@@ -15415,10 +15441,10 @@ TextureImporter:
       walkable-atlas_114: 2121919157
       walkable-atlas_173: -2008633170
       walkable-atlas_153: 1232795809
-      walkable-atlas_346: 1371499071
+      walkable-atlas_641: -1948837049
       walkable-atlas_327: -1225812800
       walkable-atlas_147: 1636213132
-      walkable-atlas_641: -1948837049
+      walkable-atlas_346: 1371499071
       walkable-atlas_493: -264353106
       walkable-atlas_317: -9034243
       walkable-atlas_192: -139127161
@@ -15445,10 +15471,10 @@ TextureImporter:
       walkable-atlas_189: -1521314435
       walkable-atlas_169: -766467069
       walkable-atlas_688: -847177385
-      walkable-atlas_514: -639555993
+      walkable-atlas_613: -1858759630
       walkable-atlas_142: 942850830
       walkable-atlas_512: 836280313
-      walkable-atlas_613: -1858759630
+      walkable-atlas_514: -639555993
       walkable-atlas_595: -389422624
       walkable-atlas_150: -1635360164
       walkable-atlas_434: 479148405
@@ -15488,9 +15514,9 @@ TextureImporter:
       walkable-atlas_55: 2121318474
       walkable-atlas_268: -1269886934
       walkable-atlas_27: -2095146729
+      walkable-atlas_689: -1121351868
       walkable-atlas_313: 1336604122
       walkable-atlas_231: 1647897031
-      walkable-atlas_689: -1121351868
       walkable-atlas_550: 759958681
       walkable-atlas_1: -298855194
       walkable-atlas_565: -990467187
