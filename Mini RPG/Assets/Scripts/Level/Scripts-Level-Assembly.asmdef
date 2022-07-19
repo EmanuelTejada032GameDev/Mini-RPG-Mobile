@@ -1,0 +1,16 @@
+{
+    "name": "Scripts-Level-Assembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:17e309706fb803845993afecf21de5ee"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

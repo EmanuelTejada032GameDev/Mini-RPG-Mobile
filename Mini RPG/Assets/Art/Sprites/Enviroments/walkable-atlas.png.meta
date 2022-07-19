@@ -313,7 +313,11 @@ TextureImporter:
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
       spriteID: dd90c1268616c9148a5222d2f7c93fd3
@@ -5604,7 +5608,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -4, y: 2}
+        - {x: -5, y: -2}
+        - {x: -2, y: -5}
+        - {x: 3, y: -5}
+        - {x: 5, y: -2}
+        - {x: 5, y: 3}
+        - {x: 2, y: 4}
       tessellationDetail: 0
       bones: []
       spriteID: f8b930d1840647b4cac77022650380b1
@@ -15216,10 +15228,10 @@ TextureImporter:
       walkable-atlas_624: 1054996127
       walkable-atlas_385: 227527331
       walkable-atlas_520: -644058810
-      walkable-atlas_208: -2111215442
-      walkable-atlas_128: 941842317
       walkable-atlas_362: -1409097312
       walkable-atlas_462: 1260683027
+      walkable-atlas_208: -2111215442
+      walkable-atlas_128: 941842317
       walkable-atlas_178: 1923579419
       walkable-atlas_255: -351868590
       walkable-atlas_160: -978471323
